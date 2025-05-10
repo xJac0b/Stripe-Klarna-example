@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393899751351",
+    "project_id": "stripe-test-572d7",
+    "storage_bucket": "stripe-test-572d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393899751351:android:256c9a6bb7c14cc7a09a32",
+        "android_client_info": {
+          "package_name": "com.example.stripe_klarna_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNjM-xv2Q0gsc96Xywvs8-xuc8uJ4RFs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
